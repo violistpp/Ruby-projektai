@@ -1,4 +1,4 @@
-#Užduotis atliko:
-Laimonas Dabužinskas - Palindromas 
-David Baranovski - 
-Rimvydas Alminas - 
+#Užduotis atliko:  
+Laimonas Dabužinskas - Palindromas  
+David Baranovski -  
+Rimvydas Alminas -  
